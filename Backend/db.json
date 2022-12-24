@@ -1,0 +1,53 @@
+{
+  "users": [
+    {
+      "name": "Dr.Fahad Shahzad",
+      "email": "khuram.21.09.19@gmail.com",
+      "id": 2
+    },
+    {
+      "name": "Dr.Umer Shahzad",
+      "email": "khuram.21.09.19@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "Dr.Umer Shahzad",
+      "email": "khuram.21.09.19@gmail.com",
+      "id": 4
+    }
+  ],
+  "Pateint": [
+    {
+      "name": "Khuram Shahzad",
+      "email": "khuram.21.09.19@gmail.com",
+      "id": 6
+    },
+    {
+      "id": "9",
+      "name": "Guitar House (0323 8435619 )",
+      "email": "khuram.21.09.19@gmail.com",
+      "pass": "123"
+    },
+    {
+      "id": "88",
+      "name": "user",
+      "email": "khuram.21.09.19@gmail.com",
+      "pass": "99999"
+    },
+    {
+      "id": "1",
+      "name": "Khuram Shahzad",
+      "email": "khuram.22.09.19@gmail.com",
+      "pass": "khu19oct"
+    },
+    {
+      "id": "2",
+      "name": "samer",
+      "email": "samer19@mail.com",
+      "pass": "sam19oct"
+    },
+    {
+      "id": "5-VTNUt"
+    }
+  ]
+}
