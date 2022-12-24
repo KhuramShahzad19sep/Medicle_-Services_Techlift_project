@@ -1,0 +1,53 @@
+{
+
+
+  "users": [
+    {
+      "name": "Guitar House (0323 8435619 )",
+      "email": "khuram.21.09.19@gmail.com",
+      "id": 11,
+      "role": "doctor"
+    },
+    {
+      "name": "",
+      "email": "",
+      "id": 12,
+      "role": "doctor"
+    },
+    {
+      "name": "nawazish shah",
+      "email": "nawazishshah15@gmail.com",
+      "id": 13,
+      "role": "doctor"
+    }
+  ],
+  "Pateint": [
+    {
+      "name": "Khuram Shahzad",
+      "email": "khuram.21.09.19@gmail.com",
+      "id": "6",
+      "role": "patient"
+    },
+    {
+      "id": "9",
+      "name": "Guitar House (0323 8435619 )",
+      "email": "khuram.21.09.19@gmail.com",
+      "pass": "123",
+      "role": "patient"
+    },
+    {
+      "id": "89",
+      "name": "user",
+      "email": "khuram.21.09.19@gmail.com",
+      "pass": "99999",
+      "role": "patient"
+    },
+    {
+      "id": "88",
+      "name": "user",
+      "email": "khuram.21.09.19@gmail.com",
+      "pass": "123",
+      "role": "patient"
+    }
+  ]
+}
